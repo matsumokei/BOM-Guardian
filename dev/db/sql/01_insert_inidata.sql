@@ -1,0 +1,1 @@
+INSERT INTO bom (title, content) VALUES ('買い物', '今日の帰りに夕食の材料を買う');
